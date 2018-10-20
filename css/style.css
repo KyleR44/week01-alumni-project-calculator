@@ -1,3 +1,43 @@
+<<<<<<< HEAD
+
+/* body used to controle the font for the entire applications */
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background: no-repeat url("https://pm1.narvii.com/5795/052bf34e36dd9840ade8ab3005c483f61b7a6013_hq.jpg");
+  background-size: cover;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+/* math button */
+#add{
+  height: 125px;
+  width: 12%;
+  border-radius: 50%;
+}
+/* sub button */
+#sub{
+  height: 125px;
+  width: 12%;
+  border-radius: 50%;
+}
+/* mul button */
+#mul{
+  height: 125px;
+  width: 12%;
+  border-radius: 50%;
+}
+/* div button */
+#div{
+  height: 125px;
+  width: 12%;
+  border-radius: 50%;
+}
+=======
 /* Box Model Hack */
 * {
      -moz-box-sizing: border-box; /* Firexfox */
@@ -131,3 +171,4 @@ input{
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+>>>>>>> 457855fe4e6fc6d03580ff2946d0f5e00c8ec09d
